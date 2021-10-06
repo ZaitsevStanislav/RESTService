@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTService", "RESTService\RESTService.csproj", "{6CFB9D45-97EA-48F8-A8B2-D1A0470BAD9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTService.DataAccess", "RESTService.DataAccess\RESTService.DataAccess.csproj", "{263268F4-9897-47D5-9245-0975A8C75665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFB9D45-97EA-48F8-A8B2-D1A0470BAD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFB9D45-97EA-48F8-A8B2-D1A0470BAD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFB9D45-97EA-48F8-A8B2-D1A0470BAD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFB9D45-97EA-48F8-A8B2-D1A0470BAD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263268F4-9897-47D5-9245-0975A8C75665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263268F4-9897-47D5-9245-0975A8C75665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263268F4-9897-47D5-9245-0975A8C75665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263268F4-9897-47D5-9245-0975A8C75665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48DCDC26-13B1-43D4-A03D-098AE12D08AE}
+	EndGlobalSection
+EndGlobal
